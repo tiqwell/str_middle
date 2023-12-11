@@ -1,4 +1,4 @@
-#include "str_middle.h"
+#include "middle_str.h"
 
 bool itc_isFirstInSecond(std::string s1, std::string s2)
 {
