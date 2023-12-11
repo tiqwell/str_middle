@@ -13,3 +13,4 @@ std::string itc_maxCharWord(std::string str);
 bool IsLetter(char i);
 bool IsSpaceOrEndl(char i);
 char itc_sameChar(std::string str);
+bool itc_isFirstInSecond(std::string s1, std::string s2);
