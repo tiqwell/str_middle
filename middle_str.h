@@ -6,7 +6,7 @@
 bool itc_isDigit(unsigned char c); 
 unsigned char itc_toUpper(unsigned char c);
 unsigned char itc_changeCase(unsigned char c);
-bool itc_ñompare(std::string s1, std::string s2);
+bool itc_compare(std::string s1, std::string s2);
 int itc_countWords(std::string str);
 long long len(std::string str);
 std::string itc_maxCharWord(std::string str);
