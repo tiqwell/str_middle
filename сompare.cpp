@@ -1,6 +1,6 @@
 #include "middle_str.h"
 
-bool itc_ñompare(std::string s1, std::string s2)
+bool itc_compare(std::string s1, std::string s2)
 {
 	if(len(s1) == len(s2))
 	{
