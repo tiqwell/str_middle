@@ -15,3 +15,4 @@ bool IsSpaceOrEndl(char i);
 char itc_sameChar(std::string str);
 bool itc_isFirstInSecond(std::string s1, std::string s2);
 std::string itc_Cezar(std::string str, int k);
+std::string itc_rmFreeSpace(std::string str);
