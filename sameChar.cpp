@@ -1,4 +1,4 @@
-#include "str_middle.h"
+#include "middle_str.h"
 
 char itc_sameChar(std::string str)
 {
