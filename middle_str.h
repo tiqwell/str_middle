@@ -12,4 +12,4 @@ long long len(std::string str);
 std::string itc_maxCharWord(std::string str);
 bool IsLetter(char i);
 bool IsSpaceOrEndl(char i);
-
+char itc_sameChar(std::string str);
